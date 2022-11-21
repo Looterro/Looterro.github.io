@@ -20,8 +20,12 @@ body {
 }
 
 .about-column {
-  margin-top: 3vw;
   font-size: 25px;
   font-family: sans-serif;
   justify-content: baseline;
+  border: none
+}
+
+#text-about {
+  margin-top: 15%;
 }
