@@ -5,5 +5,11 @@ body {
   }
 
 .page-content {
+  margin-top: 20vw;
   text-align: center;
+}
+
+.navbar-test {
+  background-color: #ffffff;
+  color: #ffffff;
 }
