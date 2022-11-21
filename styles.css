@@ -5,11 +5,23 @@ body {
   }
 
 .page-content {
-  margin-top: 20vw;
+  margin-top: 10vw;
   text-align: center;
 }
 
 .navbar-test {
   background-color: #ffffff;
   color: #ffffff;
+}
+
+.avatar {
+  border-radius: 25%;
+  border: solid 1px grey;
+}
+
+.about-column {
+  margin-top: 3vw;
+  font-size: 25px;
+  font-family: sans-serif;
+  justify-content: baseline;
 }
