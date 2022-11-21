@@ -3,3 +3,7 @@ body {
     height: 100vh;
     font-family: Arial, sans-serif;
   }
+
+.page-content {
+  text-align: center;
+}
